@@ -1,0 +1,13 @@
+{
+  "settings": {
+  },
+  "rules": {
+    "pull_request": "horacioh/peril@dangerfiles/pr.js",
+    "issues": "horacioh/peril@dangerfiles/issue.js"
+  },
+  "repos" : {
+    "horacioh/airtable-netlify-short-urls": {
+      "issues.opened": "dangerfiles/issue.js"
+    }
+  }
+}
