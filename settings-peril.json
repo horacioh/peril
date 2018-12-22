@@ -1,5 +1,6 @@
 {
   "settings": {
+    "onlyForOrgMembers": false
   },
   "rules": {
     "pull_request": "horacioh/peril@dangerfiles/pr.js",
